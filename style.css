@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.app {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#weatherOutput {
+    margin-top: 20px;
+}
