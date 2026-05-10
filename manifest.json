@@ -1,0 +1,9 @@
+{
+    "name": "Weather PWA",
+    "short_name": "Weather",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4a90e2",
+    "icons": []
+}
