@@ -1,12 +1,13 @@
 # Weather PWA
 
-Simple Progressive Web App for displaying current weather data.
+Simple Progressive Web App for displaying current weather data based on the user's location.
 
 ## Features
 
-- Current weather data
+- Current weather information
 - Geolocation support
-- Offline support
+- Offline support with Service Worker
+- Local storage for last weather data
 - Installable PWA
 
 ## Technologies
@@ -15,3 +16,4 @@ Simple Progressive Web App for displaying current weather data.
 - CSS
 - JavaScript
 - Open-Meteo API
+- Service Worker
